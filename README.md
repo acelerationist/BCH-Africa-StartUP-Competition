@@ -25,3 +25,18 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
 2.	Social entrepreneurship specialist.
 3.	Web/App developers – they might be needed if a web or mobile app will have to be developed to track funding, startup progress and realistic repayment plan.
 
+<b>Connections</b>
+We have direct connections with most universities and incubation hubs.
+
+<b>Budget</b>
+1.	100 Markers @ $3 - $300
+2.	1 Epson Projector EB-X27 - $800
+3.	25 Flip charts @ $10 - $250
+4.	50 Sticky notes @ $3 - $150
+5.	25 Masking tapes @ $5 - $125
+6.	1 backdrop banner with a stand - $500
+7.	25 Roll-up banners @ 150 - $3750
+8.	1 Backdrop banner with stand - $600
+
+
+
