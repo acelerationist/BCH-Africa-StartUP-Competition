@@ -8,7 +8,7 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
   
 <h2>Stakeholders</h2>
 Djibril W. Wachiye aka acelerationist
-<p align="right">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a microenterprise Consultant, training over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained strong knowledge in idea development, testing and taking ideas to the market place. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently writing his thesis for the award of M.A in Public Policy and Administration. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
+<p align="center">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a microenterprise Consultant, training over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained strong knowledge in idea development, testing and taking ideas to the market place. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently writing his thesis for the award of M.A in Public Policy and Administration. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
 
 
 <h2>Resources Required</h2>
