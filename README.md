@@ -20,4 +20,8 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
 9.	Merchandise i.e., t-shirts & branded rubber wrist bands
 10.	Fliers
 
+<b>Skills</b>
+1.	Social media ninja – we’ll have to create BCH StartUP Africa Initiative Facebook page and Twitter handle.
+2.	Social entrepreneurship specialist.
+3.	Web/App developers – they might be needed if a web or mobile app will have to be developed to track funding, startup progress and repayment plan.
 
