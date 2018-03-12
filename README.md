@@ -30,6 +30,7 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
 We have direct connections with most universities and incubation hubs.
 
 <h2>Budget</h2>
+
 1.	100 Markers @ $3 - $300
 2.	1 Epson Projector EB-X27 - $800
 3.	25 Flip charts @ $10 - $250
