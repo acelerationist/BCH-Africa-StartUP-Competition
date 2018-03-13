@@ -48,38 +48,6 @@ We have direct connections with most universities and incubation hubs.
 8.	1 Backdrop banner with stand - $600
 
 
-Start	Activity	
-1st April – 30th May	Call for Applications
 
-Sub-activities;
--Drop posters in the leading 22 universities in the expansive Nairobi County
--Organize meetings with research & innovation divisions, deans of students and student council
-- 
-	
-14th April 2017	Inaugural Nairobi Meetup, to be held monthly moving forward	
-2nd WK of  June	-Selection
--Selected teams notified
-	
-23rd June	-Establishment of BCH meetups in the following universities championed by selected startups;
-1.	University of Nairobi
-2.	Kenyatta University 
-3.	Technical University of Kenya 
-4.	Riara University
-5.	Daystar University
-6.	Nazarene University
-7.	Jomo Kenyatta University
-8.	Mount Kenya University
-9.	Multimedia University of Kenya	
-30th June	1.	Moi University
-2.	University of Eldoret
-3.	University of Kabianga
-4.	Maasai Mara University
-5.	Kabianga University
-6.	Kisii University
-7.	Egerton University	
-2nd Week of July	1.	Masinde Muliro University
-2.	Maseno University
-3.	Jaramogi Oginga Odinga University4.		
-		
 
 
