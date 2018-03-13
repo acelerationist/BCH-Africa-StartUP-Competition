@@ -123,11 +123,13 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 <tr>
   <td>22nd Sept</td>
   <td>2nd round of pitching – 75% of remaining teams will proceed to the final round.</td>
+  <td>1300</td>
 </tr>
 
 <tr>
   <td>6th Oct</td>
   <td>Final round of pitching – 50% of remaining startups receive conditional funding, amount not exceeding 10,000 USD each.</td>
+  <td>1300</td>
 </tr>
 
 
