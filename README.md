@@ -47,7 +47,7 @@ We have direct connections with most universities and incubation hubs.
 7.	25 Roll-up banners @ 150 - $3750
 8.	1 Backdrop banner with stand - $600
 
-</style>
+
 </head>
 <body>
 
@@ -55,11 +55,10 @@ We have direct connections with most universities and incubation hubs.
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Date</th>
+    <th>Activity</th>
   </tr>
-  </table>
+  
 
 
 
