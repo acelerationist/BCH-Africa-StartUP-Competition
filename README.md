@@ -47,71 +47,39 @@ We have direct connections with most universities and incubation hubs.
 7.	25 Roll-up banners @ 150 - $3750
 8.	1 Backdrop banner with stand - $600
 
-<html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
 
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
+Start	Activity	
+1st April – 30th May	Call for Applications
 
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
-<h2>HTML Table</h2>
-
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-</table>
-
-</body>
-</html>
-
-
+Sub-activities;
+-Drop posters in the leading 22 universities in the expansive Nairobi County
+-Organize meetings with research & innovation divisions, deans of students and student council
+- 
+	
+14th April 2017	Inaugural Nairobi Meetup, to be held monthly moving forward	
+2nd WK of  June	-Selection
+-Selected teams notified
+	
+23rd June	-Establishment of BCH meetups in the following universities championed by selected startups;
+1.	University of Nairobi
+2.	Kenyatta University 
+3.	Technical University of Kenya 
+4.	Riara University
+5.	Daystar University
+6.	Nazarene University
+7.	Jomo Kenyatta University
+8.	Mount Kenya University
+9.	Multimedia University of Kenya	
+30th June	1.	Moi University
+2.	University of Eldoret
+3.	University of Kabianga
+4.	Maasai Mara University
+5.	Kabianga University
+6.	Kisii University
+7.	Egerton University	
+2nd Week of July	1.	Masinde Muliro University
+2.	Maseno University
+3.	Jaramogi Oginga Odinga University4.		
+		
 
 
