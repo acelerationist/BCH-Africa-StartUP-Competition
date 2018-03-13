@@ -109,9 +109,11 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 </tr>
 
 <tr>
-  <td>
-  </td>
+  <td>9th to 29th July</td>
+  <td>Market testing – testing budget will be needed.<p><i>Important to validate/invalidate key assumptions</i></p></td>
+  <td>3000</td>
 </tr>
+
 
   
 
