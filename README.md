@@ -77,12 +77,13 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <tr>
   <td>1st to 9th June 2018</td>
   <td>
-*  Selection
-*  Notifications sent to selected teams
-*  Selected teams invited to the University of Nairobi Auditorium for a comprehensive introduction to Bitcoin Cash, official enrollment to the startup competition and ambassador programme with the mandate to incorporate BCH meetups in existing finance, economics, and computer science student associations among others.</td>
+        <ol>
+          <li>Selection</li>
+      <li>Notifications sent to selected teams</li>
+<li>Selected teams invited to the University of Nairobi Auditorium for a comprehensive introduction to Bitcoin Cash, official enrollment to the startup competition and ambassador programme with the mandate to incorporate BCH meetups in existing finance, economics, and computer science student associations among others.</li>
+    </ol>
+      </td>
   <td>Zero</td>
-
-
   </tr>
   
 
