@@ -94,7 +94,18 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
       <li>Official commencement of the competition</li>
     </ol>
   </td>
+  <td>1000</td>
 </tr>
+
+<tr>
+  <td>18th June to 7th July</td>
+ <td> Provide on-campus technical support to selected teams where;
+   <ol>9 building blocks of the business model canvas will be comprehensively covered including innovation within the blocks i.e, Customer Segmentation, Value proposition, Channels, Customer relationships, Revenue Stream, Key Resources, Key activities, Key partnerships, Cost structures and Revenue streams </ol> 
+   <ol>•	mastery of 9 blocks of the business model canvas will be tested through practical pitching of BCH to existing businesses by each team </ol>
+  </td>
+  <td>1000</td>
+</tr>
+
   
 
 
