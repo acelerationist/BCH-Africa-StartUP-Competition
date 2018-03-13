@@ -57,19 +57,16 @@ We have direct connections with most universities and incubation hubs.
   <tr>
     <th>Date</th>
     <th>Activity</th>
-    <th>Cost</th>
+    <th>Cost ($)</th>
   </tr>
    <tr>
     <td>1st April – 30th May</td>
     <td>Call for Applications
 
 Sub-activities;
--Creation of social media page preferably Facebook and Twitter dedicated to BCH Africa Startup Initiative to consolidate Africa support and for effective communication – 1st April
--Drop posters in the leading 22 universities in the expansive Nairobi County 2nd – 6th April
--Inaugural Nairobi City Meetup, to be held monthly moving forward -  14th April
--Organize meetings with research & innovation divisions, deans of students and student council representatives in research docket
+Creation of social media page preferably Facebook and Twitter dedicated to BCH Africa Startup Initiative to consolidate Africa support and for effective communication – 1st April; Drop posters in the leading 22 universities in the expansive Nairobi County 2nd – 6th April; Inaugural Nairobi City Meetup, to be held monthly moving forward -  14th April; Organize meetings with research & innovation divisions, deans of students and student council representatives in research docket.
 </td>
-    <td>Germany</td>
+    <td>1500</td>
   </tr>
   
 
