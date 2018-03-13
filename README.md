@@ -94,7 +94,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
       <li>Official commencement of the competition</li>
     </ol>
   </td>
-  <td>1000</td>
+  <td>1,000</td>
 </tr>
 
 <tr>
@@ -105,32 +105,44 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
    <li>mastery of 9 blocks of the business model canvas will be tested through practical pitching of BCH to existing businesses by each team </li>
    </ul>
   </td>
-  <td>1000</td>
+  <td>1,000</td>
 </tr>
 
 <tr>
   <td>9th to 29th July</td>
   <td>Market testing – testing budget will be needed.<p><i>Important to validate/invalidate key assumptions</i></p></td>
-  <td>3000</td>
+  <td>3,000</td>
 </tr>
 
 <tr>
   <td>15th Sept</td>
   <td>1st round of pitching – 50% of participating teams will proceed to round 2.</td>
-  <td>1300</td>
+  <td>1,300</td>
 </tr>
 
 <tr>
   <td>22nd Sept</td>
   <td>2nd round of pitching – 75% of remaining teams will proceed to the final round.</td>
-  <td>1300</td>
+  <td>1,300</td>
 </tr>
 
 <tr>
   <td>6th Oct</td>
   <td>Final round of pitching – 50% of remaining startups receive conditional funding, amount not exceeding 10,000 USD each.</td>
-  <td>1300</td>
+  <td>1,300</td>
 </tr>
+
+<tr>
+  <td></td>
+  <td> The goals is to narrow down to 19 promising startups each receiving 10,000 USD in BCH</td>
+  <td>190,000</td>
+</tr>
+
+<tr>
+  <td>Monitoring & Evaluation</td>
+  </tr>
+
+
 
 
   
