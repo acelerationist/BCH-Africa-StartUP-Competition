@@ -143,6 +143,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <td>MONITORING & EVALUATION</td>
   <td></td>
   </tr>
+  </table>
   
   <h2>Total cost= $206,879</h2>
   
