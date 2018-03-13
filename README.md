@@ -51,7 +51,7 @@ We have direct connections with most universities and incubation hubs.
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Work Plan</h2>
 
 <table>
   <tr>
@@ -59,6 +59,7 @@ We have direct connections with most universities and incubation hubs.
     <th>Contact</th>
     <th>Country</th>
   </tr>
+  </table>
 
 
 
