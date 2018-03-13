@@ -60,7 +60,7 @@ We have direct connections with most universities and incubation hubs.
     <th>Cost ($)</th>
   </tr>
    <tr>
-    <td>1st April to 30th May</td>
+    <td>1st April to 30th May 2018</td>
     <td>
       <b>Call for Applications</b>
 
@@ -73,6 +73,16 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <td>14th April 2018</td>
   <td>Inaugural Nairobi Meetup, to be held monthly moving forward</td>
   <td>Not included in this project</td>
+  </tr>
+  <tr>
+  <td>1st to 9th June 2018</td>
+  <td>
+*  Selection
+*  Notifications sent to selected teams
+*  Selected teams invited to the University of Nairobi Auditorium for a comprehensive introduction to Bitcoin Cash, official enrollment to the startup competition and ambassador programme with the mandate to incorporate BCH meetups in existing finance, economics, and computer science student associations among others.</td>
+  <td>Zero</td>
+
+
   </tr>
   
 
