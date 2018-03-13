@@ -86,6 +86,16 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <td>Zero</td>
   </tr>
   
+  <tr>
+  <td>16th June 2018</td>
+  <td>
+    <ol>
+      <li>Execution of activity 3 above.</li>
+      <li>Official commencement of the competition</li>
+    </ol>
+  </td>
+</tr>
+  
 
 
 
