@@ -176,13 +176,8 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 
 <tr class="impact__table__row">
   <th>
-    <h2 class="impact__table__row__heading js-row-reveal">Scale
-      
-      <svg class="impact__table__icon" height="32px" width="32px">
-        <use xlink:href="#info"></use>
-      </svg>
-      
-    </h2> Farm families served
+    <h2 class="impact__table__row__heading js-row-reveal">Scale </h2> 
+    Farm families served
   </th>
   
   <td>305,000</td>
@@ -208,12 +203,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 <tr class="impact__table__row">
   <th>
     <h2 class="impact__table__row__heading js-row-reveal">Scale
-      
-      <svg class="impact__table__icon" height="32px" width="32px">
-        <use xlink:href="#info"></use>
-      </svg>
-      
-    </h2> Full-time staff (95% rural jobs created)
+     </h2> Full-time staff (95% rural jobs created)
   </th>
   
   <td>4,300</td>
@@ -239,12 +229,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 <tr class="impact__table__row">
   <th>
     <h2 class="impact__table__row__heading js-row-reveal">Impact
-      
-      <svg class="impact__table__icon" height="32px" width="32px">
-        <use xlink:href="#info"></use>
-      </svg>
-      
-    </h2> $ gain in farmer income
+     </h2> $ gain in farmer income
   </th>
   
   <td>$137</td>
@@ -269,12 +254,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 
 <tr class="impact__table__row">
   <th>
-    <h2 class="impact__table__row__heading js-row-reveal">Impact
-      
-      <svg class="impact__table__icon" height="32px" width="32px">
-        <use xlink:href="#info"></use>
-      </svg>
-      
+    <h2 class="impact__table__row__heading js-row-reveal">Impact  
     </h2> % gain in farmer income
   </th>
   
@@ -302,9 +282,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <th>
     <h2 class="impact__table__row__heading js-row-reveal">Sustainability
       
-      <svg class="impact__table__icon" height="32px" width="32px">
-        <use xlink:href="#info"></use>
-      </svg>
+    
       
     </h2> % loan repayment
   </th>
@@ -332,11 +310,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 <tr class="impact__table__row">
   <th>
     <h2 class="impact__table__row__heading js-row-reveal">Sustainability
-      
-      <svg class="impact__table__icon" height="32px" width="32px">
-        <use xlink:href="#info"></use>
-      </svg>
-      
+    
     </h2> % field sustainability
   </th>
   
