@@ -10,7 +10,7 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
 
 <b>Djibril W. Wachiye aka acelerationist</b>
 
-<p align="justify">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a Microenterprise Consultant, training and overseeing funding for over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained immense knowledge in idea development, testing and taking ideas to the market place.Since early 2016, he has helped Portugal based startup CEO World, now ScaleUP Academy, establish its presence in Africa. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently M.A finalist student in Public Policy. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
+<p align="justify">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a Microenterprise Consultant, training and overseeing funding for over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained immense knowledge in idea development, testing and taking ideas to the market place.Since early 2016, he has helped Portugal based startup CEO World, now ScaleUP Academy, establish its presence in Africa. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently an M.A finalist student in Public Policy. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
 
 <b><i>The project is open to other community members.</i></b>
 
@@ -30,9 +30,9 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
 10.	Fliers
 
 <b>Skills Required</b>
-1.	Social media ninja – we’ll have to create BCH Africa StartUP Initiative Facebook page, Twitter handle and YouTube channel with regular updates.
+1.	Social media ninja – we’ll have to create BCH Africa StartUP Competition Facebook page, Twitter handle and YouTube channel with regular updates.
 2.	Social entrepreneurship specialist - it'll be great if this position can be filled by BCH community volunteers. Alternatively, we can source one locally on pro bono basis.
-3.	Web/App developers – the project <b>might</b> a web or mobile app developer to develop an web/mobile app to track funding, startup progress and realistic repayment plan.
+3.	Web/App developers – the project <b>MIGHT</b> need a web or mobile app developer to develop an web/mobile app to track funding, startup progress and realistic repayment plan.
 
 <b>Connections</b>
 
@@ -62,7 +62,7 @@ We have direct connections with most universities. For greater impact, more stak
     <th>Cost ($)</th>
   </tr>
    <tr>
-    <td>1st April to 30th May 2018</td>
+    <td>1st April to 30th May</td>
     <td>
       <b>Call for Applications</b>
 
@@ -72,12 +72,12 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
     <td>1500</td>
   </tr>
   <tr>
-  <td>14th April 2018</td>
+  <td>14th April</td>
   <td>Inaugural Nairobi Meetup, to be held monthly moving forward</td>
   <td>Not included in this project</td>
   </tr>
   <tr>
-  <td>1st to 9th June 2018</td>
+  <td>1st to 9th June</td>
   <td>
         <ol>
           <li>Selection</li>
@@ -89,7 +89,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   </tr>
   
   <tr>
-  <td>16th June 2018</td>
+  <td>16th June</td>
   <td>
     <ol>
       <li>Execution of activity 3 above.</li>
