@@ -214,6 +214,32 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 </tr>
   </table>
   
+  <h1><i>Appendix<i></h1>
+  <h2>Participating Universities</h2>
+  <ol>
+    <li>University of Nairobi</li>
+    <li>Kenyatta University</li>
+    <li>Jomo Kenyatta University of Science & Technology</li>
+    <li>Mount Kenya University</li>
+    <li>Strathmore University</li>
+    <li>Catholic Unversity of Eastern Africa</li>
+    <li>Daystar University</li>
+    <li>United States International University</li>
+    <li>KCA University</li>
+    <li>Riara University</li>
+    <li>Technical University of Kenya</li>
+    <li>Kenya Methodist University</li>
+    <li>St. Pauls University</li>
+    <li>The Co-operative University of Kenya</li>
+    <li>Management University of Africa</li>
+    <li>Multimedia University of Kenya</li>
+    <li>Pioneer University</li>
+    <li>Zetech University</li>
+    <li>Pan African Christian University</li>
+    <li>Kiriri Women University of Science & Technology</li>
+    <li>Adventist University of Africa</li>
+  </ol>
+  
 
 
 
