@@ -151,7 +151,13 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 <h1 align="center">Impact</h2>
 <p>Impact is the North Star for BCH Africa StartUP Initiative. The initiative will always seek to generate positive impact to the community while driving mainstream adoption of Bitcoin Cash. Continuous rigorous measurements is the only way to know whether the initiative is heading in the right direction.</p>
 
-
+<table>
+  <tr>
+    <th></th>
+    <th>2018 <p>Projected</p></th>
+    <th>2019 <p>Projected</p></th>
+  </tr>
+  </table>
   
 
 
