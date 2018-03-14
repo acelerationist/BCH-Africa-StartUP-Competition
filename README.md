@@ -148,7 +148,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <h2>Total cost= $206,879</h2>
   
   
-<h1>Impact</h2>
+<p align="center"><h1>Impact</h2></p>
 <p>Impact is the North Star for BCH Africa StartUP Initiative. The initiative will always seek to generate positive impact to the community while driving mainstream adoption of Bitcoin Cash. Continuous rigorous measurements is the only way to know whether the initiative is heading in the right direction.</p>
 
 
