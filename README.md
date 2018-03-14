@@ -208,7 +208,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   </td>
   
   <td><b>_</b></td>
-  <td><b>25%</><td>
+  <td><b>25%</b></td>
 </tr>
   </table>
   
