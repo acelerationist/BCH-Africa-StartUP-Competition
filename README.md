@@ -157,6 +157,11 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
     <th>2018 <p>Projected</p></th>
     <th>2019 <p>Projected</p></th>
   </tr>
+  
+  <tr>
+  <td>Scale <p>High impact meetups created within university tech ecosystem</p></td>
+  <tr>22</tr>
+</tr>
   </table>
   
 
