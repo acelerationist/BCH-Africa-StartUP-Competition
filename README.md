@@ -188,15 +188,27 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <td>
     <b>Scale</b>
     <p>
-      <i>jobs created</i>
+      <i>Jobs created</i>
     </p>
   </td>
   <td>
     <b>57</b>
   </td>
   <td>
-    <b>100</b>
+    <b>170</b>
   </td>
+</tr>
+
+<tr>
+  <td>
+    <b>Sustainability</b>
+    <p>
+      <i>Investment recovery</i>
+    </p>
+  </td>
+  
+  <td><b>_</b></td>
+  <td><b>25%</><td>
 </tr>
   </table>
   
