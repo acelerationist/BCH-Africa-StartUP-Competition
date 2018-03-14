@@ -57,7 +57,7 @@ We have direct connections with most universities. For greater impact, more stak
 
 <table>
   <tr>
-    <th>Date</th>
+    <th>Yr 2018</th>
     <th>Activity</th>
     <th>Cost ($)</th>
   </tr>
