@@ -159,9 +159,9 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   </tr>
   
   <tr>
-  <td>Scale <p><i>High impact BCH meetups created within university tech ecosystem</i></p></td>
+  <td><b>Scale</b><p><i>High impact BCH meetups created within university tech ecosystem</i></p></td>
   <td>22</td>
-  <td>52 <p><i>Including satellite campuses</i></p></td>
+  <td><b>52</b><i>(Including satellite campuses)</i></td>
 </tr>
   </table>
   
