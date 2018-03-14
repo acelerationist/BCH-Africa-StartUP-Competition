@@ -113,7 +113,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 <tr>
   <td>9th to 29th July</td>
   <td>Market testing – testing budget will be needed.<p><i>Important to validate/invalidate key assumptions</i></p></td>
-  <td>3,000</td>
+  <td>5,000</td>
 </tr>
 
 <tr>
@@ -142,12 +142,12 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 
 <tr>
   <td></td>
-  <td><b>MONITORING & EVALUATION</b></td>
+  <p align="center><td><b>MONITORING & EVALUATION</b></td></p>
   <td></td>
   </tr>
   </table>
   
-  <h2>Total cost= $206,879</h2>
+  <h2>Total cost= $209,135</h2>
   
   
 <h1 align="center">Impact</h2>
