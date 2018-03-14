@@ -1,16 +1,18 @@
-# BCH Africa StartUP Initiative
+# BCH Africa StartUP Competition
 An initiative aimed at driving mainstream adoption of Bitcoin Cash in Kenya, Africa while supporting startups.
 
 <h2>Project Summary</h2>
 
-<p align="justify">BCH Startup Africa Initiative is a project aimed at creating awareness of Bitcoin Cash in Kenya’s rapidly growing startup ecosystem while providing mentorship, technical and financial support in form of BCH to successful startups.
-BCH invested in startups is not free money; it forms a revolving fund that will ensure more startups are supported, sustainability of the initiative, and further channeled back to Bitcoin Cash Fund appropriately. BCH funding will be provided based on a rationale to be developed, and on condition that startups ACCEPT BCH as a medium of exchange for goods and services provided. The first batch of participating startups will lay a foundation for the drive for mainstream adoption of BCH in Kenya as we work on getting existing businesses BCH ready. Videos documenting the journey; selection, mentorship, market testing and pitching will be professionally shot and shared on BCH platform. Participating startups drawn from 22 universities based in the expansive Nairobi County will form on-campus Bitcoin Cash meetups to further Bitcoin Cash agenda.</p>
+<p align="justify">BCH Startup Africa Competition is a project aimed at creating awareness of Bitcoin Cash in Kenya’s rapidly growing startup ecosystem while providing mentorship, technical and financial support in form of BCH to successful startups.
+BCH invested in startups is not free money; it forms a revolving fund that will ensure more startups are supported, sustainability of the initiative, and further channeled back to Bitcoin Cash Fund appropriately. BCH funding will be provided based on a rationale to be developed, and on condition that startups ACCEPT BCH as a medium of exchange for goods and services provided. The first batch of participating startups will lay a foundation for the drive for mainstream adoption of BCH in Kenya as we work on getting existing businesses BCH ready. Videos documenting the journey; selection, mentorship, market testing and pitching will be professionally shot and shared on BCH StartUP Competition platform and other Bitcoin Cash platforms. Participating startups drawn from 22 universities based in the expansive Nairobi County will form on-campus Bitcoin Cash meetups to further Bitcoin Cash agenda.</p>
   
 <h2>Stakeholders</h2>
 
 <b>Djibril W. Wachiye aka acelerationist</b>
 
-<p align="justify">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a microenterprise Consultant, training over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained strong knowledge in idea development, testing and taking ideas to the market place.Since early 2016, he has helped Portugal based startup CEO World, now ScaleUP Academy, establish its presence in Africa. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently writing his thesis for the award of M.A in Public Policy and Administration. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
+<p align="justify">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a Microenterprise Consultant, training and overseeing funding for over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained immense knowledge in idea development, testing and taking ideas to the market place.Since early 2016, he has helped Portugal based startup CEO World, now ScaleUP Academy, establish its presence in Africa. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently M.A finalist student in Public Policy. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
+
+<b><i>The project is open to other community members.</i></b>
 
 
 <h2>Resources Required</h2>
@@ -45,7 +47,7 @@ We have direct connections with most universities. For greater impact, more stak
 5.	25 Masking tapes @ $5 - $125
 6.	25 Roll-up banners @ 150 - $3750
 7.	1 Backdrop banner with stand - $600
-8.  Budget camera
+8.  Budget camera(NIKON D5300) - $750
 
 
 </head>
