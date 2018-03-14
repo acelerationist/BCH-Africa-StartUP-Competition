@@ -142,7 +142,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 
 <tr>
   <td></td>
-  <p align="center><td><b>MONITORING & EVALUATION</b></td></p>
+  <td align="center"><b>MONITORING & EVALUATION</b></td>
   <td></td>
   </tr>
   </table>
