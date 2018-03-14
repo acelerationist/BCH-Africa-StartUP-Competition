@@ -238,6 +238,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
     <li>Pan African Christian University</li>
     <li>Kiriri Women University of Science & Technology</li>
     <li>Adventist University of Africa</li>
+    <li>Gretsa University</li>
   </ol>
   
 
