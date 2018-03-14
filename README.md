@@ -27,25 +27,25 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
 9.	Merchandise i.e., t-shirts & branded rubber wrist bands
 10.	Fliers
 
-<b>Skills</b>
+<b>Skills Required</b>
 1.	Social media ninja – we’ll have to create BCH Africa StartUP Initiative Facebook page, Twitter handle and YouTube channel with regular updates.
-2.	Social entrepreneurship specialist.
-3.	Web/App developers – they might be needed if a web or mobile app will have to be developed to track funding, startup progress and realistic repayment plan.
+2.	Social entrepreneurship specialist - it'll be great if this position can be filled by BCH community volunteers. Alternatively, we can source one locally on pro bono basis.
+3.	Web/App developers – the project <b>might</b> a web or mobile app developer to develop an web/mobile app to track funding, startup progress and realistic repayment plan.
 
 <b>Connections</b>
 
-We have direct connections with most universities and incubation hubs.
+We have direct connections with most universities. For greater impact, more stakeholders will be engaged.
 
-<h2>Budget</h2>
+<h2>Materials & Equipment</h2>
 
 1.	100 Markers @ $3 - $300
 2.	1 Epson Projector EB-X27 - $800
 3.	25 Flip charts @ $10 - $250
 4.	50 Sticky notes @ $3 - $150
 5.	25 Masking tapes @ $5 - $125
-6.	1 backdrop banner with a stand - $500
-7.	25 Roll-up banners @ 150 - $3750
-8.	1 Backdrop banner with stand - $600
+6.	25 Roll-up banners @ 150 - $3750
+7.	1 Backdrop banner with stand - $600
+8.  Budget camera
 
 
 </head>
