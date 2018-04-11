@@ -231,15 +231,8 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <th>$1</th>
   </table>
   
-  <html>
-<body>
-
-% of Funds Raised:
-<progress value="0.24" max="100">
-</progress>
-
-</body>
-</html>
+ <h2>How to Donate</h2>
+ 
 
   
   <h1><i>Appendix<i></h1>
