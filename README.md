@@ -218,8 +218,17 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <table>
   <tr>
     <th>Twitter Username</th>
-    <th>Amount Donated</th>
+    <th>Amount Donated (USD)</th>
   </tr>
+  
+  <tr>
+  <th>@silveragorism</th>
+  <th>$500</th>
+  </tr>
+  
+  <tr>
+  <th>@chiuta2010</th>
+  <th>$1</th>
   </table>
   
   <h1><i>Appendix<i></h1>
