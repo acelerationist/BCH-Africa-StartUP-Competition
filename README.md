@@ -231,9 +231,16 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <th>$1</th>
   </table>
   
-  Funds Raised:
+  <html>
+<body>
+
+% of Funds Raised:
 <progress value="0.24" max="100">
 </progress>
+
+</body>
+</html>
+
   
   <h1><i>Appendix<i></h1>
   <h2>Participating Universities</h2>
