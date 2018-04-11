@@ -223,6 +223,11 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   
  <h2>How to Donate</h2>
  
+ <ol>
+  <li>bitcoincash: qrx2k8fu9uvfa0zleprhea522kg763q58yqd0769zz</li>
+  <li>Tiprbot @BitcoinCashKE</li>
+</ol>
+ 
 
   
   <h1><i>Appendix<i></h1>
