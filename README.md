@@ -225,7 +225,7 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
  
  <ol>
   <li>bitcoincash: qrx2k8fu9uvfa0zleprhea522kg763q58yqd0769zz</li>
-  <li>Tiprbot @BitcoinCashKE</li>
+  <li>Tipprbot @BitcoinCashKE</li>
 </ol>
  
 
