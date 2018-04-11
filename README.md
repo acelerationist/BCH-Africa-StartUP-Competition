@@ -214,6 +214,14 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 </tr>
   </table>
   
+ <h2>Donor Hall of Fame</h2>
+  <table>
+  <tr>
+    <th>Twitter Username</th>
+    <th>Amount Donated</th>
+  </tr>
+  </table>
+  
   <h1><i>Appendix<i></h1>
   <h2>Participating Universities</h2>
   <ol>
