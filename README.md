@@ -1,4 +1,4 @@
-# BCH Africa StartUP Competition
+# BCHAfricaStartUP Competition
 An initiative aimed at driving mainstream adoption of Bitcoin Cash in Kenya, Africa while supporting startups.
 
 <h2>Project Summary</h2>
@@ -8,7 +8,7 @@ BCH invested in startups is not free money; it forms a revolving fund that will 
   
 <h2>Stakeholders</h2>
 
-1. <b>Djibril W. Wachiye aka acelerationist</b>
+1. <b>@acelerationist</b>
 
 <p align="justify">Djibril has worked with micro-enterprises in Kenya intermittently for two years. He has worked as a Microenterprise Consultant, training and overseeing funding for over 48 enterprises in East Africa, resulting in the successful creation and development of multiple start-ups and exponential growth of existing businesses. Through this, he has gained immense knowledge in idea development, testing and taking ideas to the market place.Since early 2016, he has helped Portugal based startup CEO World, now ScaleUP Academy, establish its presence in Africa. He holds a Bachelor of Business Management degree in Banking and Finance, and is currently an M.A finalist student in Public Policy. He has a huge interest in entrepreneurship, digital economy, youth and international development.</p>
 
