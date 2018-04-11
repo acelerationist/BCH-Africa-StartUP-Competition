@@ -127,13 +127,11 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 </tr>
 
 <tr>
-  <td></td>
   <td> The goals is to narrow down to 19 promising startups each receiving 10,000 USD in BCH</td>
   <td>190,000</td>
 </tr>
 
 <tr>
-  <td></td>
   <td align="center"><b>MONITORING & EVALUATION</b></td>
   <td></td>
   </tr>
