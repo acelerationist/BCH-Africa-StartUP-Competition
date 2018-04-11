@@ -59,12 +59,10 @@ We have direct connections with most universities. For greater impact, more stak
 
 <table>
   <tr>
-    <th>Yr 2018</th>
     <th>Activity</th>
     <th>Cost ($)</th>
   </tr>
    <tr>
-    <td>1st April to 30th May</td>
     <td>
       <b>Call for Applications</b>
 
@@ -74,12 +72,10 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
     <td>1500</td>
   </tr>
   <tr>
-  <td>14th April</td>
   <td>Inaugural Nairobi Meetup, to be held monthly moving forward</td>
   <td>Not included in this project</td>
   </tr>
   <tr>
-  <td>1st to 9th June</td>
   <td>
         <ol>
           <li>Selection</li>
@@ -91,7 +87,6 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   </tr>
   
   <tr>
-  <td>16th June</td>
   <td>
     <ol>
       <li>Execution of activity 3 above.</li>
@@ -102,7 +97,6 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 </tr>
 
 <tr>
-  <td>18th June to 7th July</td>
  <td> Provide on-campus technical support to selected teams where;
    <ul>
    <li>9 building blocks of the business model canvas will be comprehensively covered including innovation within the blocks i.e, Customer Segmentation, Value proposition, Channels, Customer relationships, Revenue Stream, Key Resources, Key activities, Key partnerships, Cost structures and Revenue streams </li> 
@@ -113,25 +107,21 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
 </tr>
 
 <tr>
-  <td>9th to 29th July</td>
   <td>Market testing – testing budget will be needed.<p><i>Important to validate/invalidate key assumptions</i></p></td>
   <td>5,000</td>
 </tr>
 
 <tr>
-  <td>15th Sept</td>
   <td>1st round of pitching – 50% of participating teams will proceed to round 2.</td>
   <td>1,300</td>
 </tr>
 
 <tr>
-  <td>22nd Sept</td>
   <td>2nd round of pitching – 75% of remaining teams will proceed to the final round.</td>
   <td>1,300</td>
 </tr>
 
 <tr>
-  <td>6th Oct</td>
   <td>Final round of pitching – 50% of remaining startups receive conditional funding, amount not exceeding 10,000 USD each.</td>
   <td>1,300</td>
 </tr>
