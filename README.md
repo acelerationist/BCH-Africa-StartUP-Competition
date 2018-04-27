@@ -219,6 +219,16 @@ Creation of social media page preferably Facebook and Twitter dedicated to BCH A
   <tr>
   <th>@chiuta2010</th>
   <th>$1</th>
+  
+  <tr>
+  <th>Anonymous</th>
+  <th>$90</th>
+</tr>
+
+<tr>
+  <th>Anonymous</th>
+  <th>$13</th>
+</tr>
   </table>
   
  <h2>How to Donate</h2>
