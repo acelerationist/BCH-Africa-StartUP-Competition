@@ -63,9 +63,6 @@ We have direct connections with most universities. For greater impact, more stak
     <th>Activity</th>
     <th>Cost ($)</th>
   </tr>
-  <tr>
-    <td>June 13 - June 22</td>
-  </tr>
    <tr>
     <td>
       <b>Call for Applications</b>
