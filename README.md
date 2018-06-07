@@ -59,7 +59,6 @@ We have direct connections with most universities. For greater impact, more stak
 
 <table>
   <tr>
-    <th>Timeline</th>
     <th>Activity</th>
     <th>Cost ($)</th>
   </tr>
