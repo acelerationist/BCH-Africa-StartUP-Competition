@@ -59,10 +59,12 @@ We have direct connections with most universities. For greater impact, more stak
 
 <table>
   <tr>
+    <th>Timeline</th>
     <th>Activity</th>
     <th>Cost ($)</th>
   </tr>
    <tr>
+     <td>13th - 22nd June</td>
     <td>
       <b>Call for Applications</b>
 
@@ -71,64 +73,70 @@ Creation of a website, social media page preferably Facebook and Twitter dedicat
 </td>
     <td>1500</td>
   </tr>
-  <tr>
-  <td>Inaugural Nairobi Meetup, to be held monthly moving forward</td>
-  <td>Not included in this project</td>
-  </tr>
-  <tr>
+ <tr>
+  <td>11th - 14th July</td>
+</tr>
+ <tr>
   <td>
         <ol>
           <li>Selection</li>
       <li>Notifications sent to selected teams</li>
-<li>Selected teams invited to the University of Nairobi Auditorium for a comprehensive introduction to Bitcoin Cash, official enrollment to the startup competition and ambassador programme with the mandate to incorporate BCH meetups in existing finance, economics, and computer science student associations among others.</li>
+<li>Selected teams invited to Nairobi Garage Space for a comprehensive introduction to Bitcoin Cash, official enrollment to the startup competition and ambassador programme with the mandate to incorporate BCH meetups in existing finance, economics, and computer science student associations among others.</li>
     </ol>
       </td>
   <td>Zero</td>
   </tr>
   
   <tr>
+  <td></td>
   <td>
     <ol>
       <li>Execution of activity 3 above.</li>
       <li>Official commencement of the competition</li>
     </ol>
   </td>
-  <td>1,000</td>
+  <td>2,000</td>
 </tr>
 
 <tr>
+  <td>16th July - 10th August
+  </td>
  <td> Provide on-campus technical support to selected teams where;
    <ul>
    <li>9 building blocks of the business model canvas will be comprehensively covered including innovation within the blocks i.e, Customer Segmentation, Value proposition, Channels, Customer relationships, Revenue Stream, Key Resources, Key activities, Key partnerships, Cost structures and Revenue streams </li> 
    <li>mastery of 9 blocks of the business model canvas will be tested through practical pitching of BCH to existing businesses by each team </li>
    </ul>
   </td>
-  <td>1,000</td>
+  <td>2,000</td>
 </tr>
 
 <tr>
+  <td>11th - 25th August</td>
   <td>Market testing – testing budget will be needed.<p><i>Important to validate/invalidate key assumptions</i></p></td>
   <td>5,000</td>
 </tr>
 
 <tr>
+  <td>8th September</td>
   <td>1st round of pitching – 50% of participating teams will proceed to round 2.</td>
-  <td>1,300</td>
+  <td>2000</td>
 </tr>
 
 <tr>
+  <td>15th September</td>
   <td>2nd round of pitching – 75% of remaining teams will proceed to the final round.</td>
-  <td>1,300</td>
+  <td>2000</td>
 </tr>
 
 <tr>
+  <td>22nd September</td>
   <td>Final round of pitching – 50% of remaining startups receive conditional funding, amount not exceeding 10,000 USD each.</td>
-  <td>1,300</td>
+  <td>2000</td>
 </tr>
 
 <tr>
-  <td> The goals is to narrow down to 19 promising startups each receiving 10,000 USD in BCH</td>
-  <td>190,000</td>
+  <td> The goals is to narrow down to 3 promising startups with the startups will receive $10,000, $5000 and $2500BCH</td>
+  <td>17,500</td>
 </tr>
 
 <tr>
