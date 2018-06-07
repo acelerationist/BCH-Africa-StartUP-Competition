@@ -63,7 +63,7 @@ We have direct connections with most universities. For greater impact, more stak
     <th>Cost ($)</th>
   </tr>
   <tr>
-    <th>18th June - 22nd June</th>
+    <td>June 13 - June 22</td>
   </tr>
    <tr>
     <td>
