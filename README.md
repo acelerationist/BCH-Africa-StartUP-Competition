@@ -116,8 +116,7 @@ Creation of a website, social media page preferably Facebook and Twitter dedicat
   <td>5,000</td>
 </tr>
 
-<tr>
-  <td>8th September</td>
+<t  <td>8th September</td>
   <td>1st round of pitching – 50% of participating teams will proceed to round 2.</td>
   <td>2000</td>
 </tr>
@@ -145,7 +144,7 @@ Creation of a website, social media page preferably Facebook and Twitter dedicat
   </tr>
   </table>
   
-  <h2>Total cost= $209,135</h2>
+  <h2>Total cost= $40,800</h2>
   
   
 <h1 align="center">Impact</h2>
