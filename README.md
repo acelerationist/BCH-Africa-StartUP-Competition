@@ -132,11 +132,13 @@ Creation of a website, social media page preferably Facebook and Twitter dedicat
 </tr>
 
 <tr>
-  <td> The goals is to narrow down to 3 promising startups with the startups will receive $10,000, $5000 and $2500BCH</td>
+  <td></td>
+  <td> The goals is to narrow down to 3 promising startups with the 1st, 2nd  and 3rd Startup receiving $10,000, $5000 and $2500 in BCH respectively</td>
   <td>17,500</td>
 </tr>
 
 <tr>
+  <td></td>
   <td align="center"><b>MONITORING & EVALUATION</b></td>
   <td></td>
   </tr>
