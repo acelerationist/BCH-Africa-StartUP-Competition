@@ -191,10 +191,10 @@ Creation of a website, social media page preferably Facebook and Twitter dedicat
     </p>
   </td>
   <td>
-    <b>57</b>
+    <b>20</b>
   </td>
   <td>
-    <b>170</b>
+    <b>40</b>
   </td>
 </tr>
 
