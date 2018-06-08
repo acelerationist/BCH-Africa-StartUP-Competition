@@ -75,8 +75,6 @@ Creation of a website, social media page preferably Facebook and Twitter dedicat
   </tr>
  <tr>
   <td>11th - 14th July</td>
-</tr>
- <tr>
   <td>
         <ol>
           <li>Selection</li>
